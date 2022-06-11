@@ -1,0 +1,52 @@
+{
+  "admin": [
+    {
+      "Email": "Longoccu",
+      "password": "123"
+    },
+    {
+      "Email": "admin2",
+      "password": "123"
+    }
+  ],
+  "product": [
+    {
+      "id": "4",
+      "name": "túi",
+      "amout": "2",
+      "describe": "do",
+      "type": "deovai"
+    },
+    {
+      "id": "4",
+      "name": "túi",
+      "amout": "2",
+      "describe": "ko xoa",
+      "type": "deovai"
+    },
+    {
+      "name": "",
+      "amout": "",
+      "describe": "",
+      "type": "",
+      "img": "",
+      "id": "cZXgyNS"
+    },
+    {
+      "name": "sad",
+      "amout": 2,
+      "describe": "ádsad",
+      "type": "Giày",
+      "img": "image-item/Screenshot 2022-05-24 142811",
+      "id": "HoMztw_"
+    },
+    {
+      "name": "23",
+      "amout": 1,
+      "describe": "sad",
+      "type": "Giày",
+      "img": "Screenshot 2022-05-24 142811",
+      "id": "n_nJtO9"
+    }
+  ]
+}
